@@ -99,6 +99,7 @@ void loop()
 
 
 Output of the simulation :
+![gitlogo](123aurdino.jpg)
 
 [
 
