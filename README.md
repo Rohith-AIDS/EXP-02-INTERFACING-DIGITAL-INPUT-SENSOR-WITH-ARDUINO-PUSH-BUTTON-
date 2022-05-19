@@ -66,7 +66,7 @@ FIGURE -03
 
 
 
-PROGRAM 
+### PROGRAM 
 ~~~
 int buttonstate = 0;
 void setup()
@@ -98,9 +98,9 @@ void loop()
 
 
 
-Output of the simulation :
+### Output of the simulation :
 ![gitlogo](123aurdino.jpg)
 
-RESULT
+### RESULT
 Arduino uno analog input functioning is learned and interfaced with digital input switch .
 
