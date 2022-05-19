@@ -101,5 +101,6 @@ void loop()
 Output of the simulation :
 ![gitlogo](123aurdino.jpg)
 
-[
+RESULT
+Arduino uno analog input functioning is learned and interfaced with digital input switch .
 
